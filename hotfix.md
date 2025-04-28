@@ -1,1 +1,1 @@
-das ist mein Hotfix
+Merge-Konflikt Beispiel: dag ist mein Hotfix
